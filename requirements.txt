@@ -1,0 +1,6 @@
+openai
+pandas
+openpyxl
+pdf2image
+Pillow
+tqdm
